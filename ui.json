@@ -6,7 +6,7 @@
       "label": "test",
       "menu": "start",
       "urlKey": "plenty-test",
-      "entryPoint": "index.html"
+      "entryPoint": "index.php"
     }
   ]
 }
