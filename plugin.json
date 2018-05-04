@@ -4,5 +4,5 @@
   "namespace": "PlentyBackend",
   "author": "Michal Nogas",
   "type": "backend",
-  "serviceProvider": "PlentyBackend\\Providers\PlentyBackendServiceProvider"
+  "serviceProvider": "PlentyBackend\\Providers\\PlentyBackendServiceProvider"
 }
