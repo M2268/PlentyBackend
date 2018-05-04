@@ -1,0 +1,8 @@
+{
+  "name": "PlentyBackend",
+  "description": "opis",
+  "namespace": "PlentyBackend",
+  "author": "Michal Nogas",
+  "type": "backend",
+  "serviceProvider": "PlentyBackend\\Providers\PlentyBackendServiceProvider"
+}

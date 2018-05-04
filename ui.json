@@ -1,0 +1,12 @@
+{
+  "defaultEntryPoint": "index.html",
+  "namespace": "PlentyBackend",
+  "menuEntries": [
+    {
+      "label": "test",
+      "menu": "start",
+      "urlKey": "plenty-test",
+      "entryPoint": "index.html"
+    }
+  ]
+}
